@@ -393,16 +393,6 @@ Banner Style
   z-index: -1;
 }
 
-.main-banner::before {
-  content: url(../images/banner-left.png);
-  top: -1px;
-  left: 0;
-  position: absolute;
-  width: 194px;
-  height: 655px;
-  z-index: -1;
-}
-
 .main-banner h6 {
   font-size: 20px;
   color: #5b03e4;
@@ -462,16 +452,6 @@ Page Heading Style
 .page-heading {
   padding: 120px 0px;
   margin-top: 0px;
-}
-
-.page-heading::before {
-  content: url(../images/banner-left.png);
-  top: -1px;
-  left: 0;
-  position: absolute;
-  width: 194px;
-  height: 655px;
-  z-index: -1;
 }
 
 .page-heading h6 {

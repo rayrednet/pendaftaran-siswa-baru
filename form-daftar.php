@@ -33,7 +33,7 @@
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
               <img src="assets/images/logo.png" alt="" style="max-width: 200px;">
             </a>
             <!-- ***** Logo End ***** -->
@@ -160,6 +160,7 @@ function validateForm() {
                 <option value="">Pilih agama</option>
                 <option value="Islam">Islam</option>
                 <option value="Kristen">Kristen</option>
+                <option value="Katolik">Katolik</option>
                 <option value="Hindu">Hindu</option>
                 <option value="Budha">Budha</option>
                 <option value="Atheis">Atheis</option>

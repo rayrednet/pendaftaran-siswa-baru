@@ -58,7 +58,7 @@ if( mysqli_num_rows($query) < 1 ){
         <div class="col-12">
           <nav class="main-nav">
             <!-- ***** Logo Start ***** -->
-            <a href="index.html" class="logo">
+            <a href="index.php" class="logo">
               <img src="assets/images/logo.png" alt="" style="max-width: 200px;">
             </a>
             <!-- ***** Logo End ***** -->
